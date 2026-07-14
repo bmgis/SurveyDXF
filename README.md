@@ -17,4 +17,4 @@ Latest APK: see Releases.
 
 ## Support
 
-Contact: your email here
+Contact: bmgis.my@gmail.com
