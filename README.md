@@ -1,30 +1,29 @@
-# SurveyDXF GitHub Pages
+# SurveyDXF
 
-Static landing page and policy pages for the public `bmgis/SurveyDXF` repository.
+SurveyDXF is an Android field productivity tool for DXF viewing, stakeout support, point capture, level booking, and CSV export.
 
-## Files
+## Download
 
-- `index.html` - Landing page
-- `styles.css` - Site styling
-- `privacy.html` - Privacy policy
-- `terms.html` - Terms of service
-- `refund.html` - Refund policy
+Download the latest APK from the Releases page:
 
-## Publish on GitHub Pages
+https://github.com/bmgis/SurveyDXF/releases
 
-1. Upload these files to the root of `https://github.com/bmgis/SurveyDXF`.
-2. Open repository `Settings`.
-3. Open `Pages`.
-4. Set `Source` to `Deploy from a branch`.
-5. Select branch `main` and folder `/ (root)`.
-6. Save.
+## License
 
-The expected public URL is:
+SurveyDXF includes a trial period. Lifetime Pro is available for one device.
 
-`https://bmgis.github.io/SurveyDXF/`
+A license is linked to the phone Device ID. If you change phone, contact support for transfer help.
 
-## Before Launch
+## Important Notice
 
-- Replace the GitHub Releases page content with the latest signed APK.
-- Confirm the support email is correct: `bmgis.my@gmail.com`.
-- Confirm Lemon Squeezy checkout is ready before linking paid traffic.
+SurveyDXF is a field productivity tool. Users remain responsible for independently verifying all survey, staking, coordinate, elevation, and construction outputs before relying on them.
+
+## Policies
+
+- Privacy Policy: https://bmgis.github.io/SurveyDXF/privacy.html
+- Terms of Service: https://bmgis.github.io/SurveyDXF/terms.html
+- Refund Policy: https://bmgis.github.io/SurveyDXF/refund.html
+
+## Support
+
+Email: bmgis.my@gmail.com
