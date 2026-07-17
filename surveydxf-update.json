@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/bmgis/SurveyDXF/releases/download/v1.0.1/surveydxf-v1.0.1.update",
+  "notes": "DXF performance improvements, hatch skip, open DXF from other apps, and bottom readout refinements."
+}
