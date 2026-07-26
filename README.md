@@ -21,6 +21,7 @@ SurveyDXF is a field productivity tool. Users remain responsible for independent
 ## Policies
 
 - Privacy Policy: https://bmgis.github.io/SurveyDXF/privacy.html
+- Data Deletion: https://bmgis.github.io/SurveyDXF/delete-data.html
 
 ## Support
 
