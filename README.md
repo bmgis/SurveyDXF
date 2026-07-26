@@ -1,18 +1,18 @@
 # SurveyDXF
 
-SurveyDXF is an Android field productivity tool for DXF viewing, stakeout support, point capture, level booking, and CSV export.
+SurveyDXF is an Android field productivity tool for DXF viewing, stakeout support, point capture, level booking, and CSV/PDF export.
 
 ## Download
 
-Download the latest APK from the Releases page:
+Download SurveyDXF from Google Play:
 
-https://github.com/bmgis/SurveyDXF/releases
+https://play.google.com/store/apps/details?id=com.surveydxf.app
 
 ## License
 
-SurveyDXF includes a trial period. Lifetime Pro is available for one device.
+SurveyDXF includes a server-managed 30-day device trial. Monthly, yearly, and Lifetime Pro plans are handled through Google Play Billing.
 
-A license is linked to the phone Device ID. If you change phone, contact support for transfer help.
+Trial and paid access are verified by a server-side device entitlement.
 
 ## Important Notice
 
@@ -21,8 +21,6 @@ SurveyDXF is a field productivity tool. Users remain responsible for independent
 ## Policies
 
 - Privacy Policy: https://bmgis.github.io/SurveyDXF/privacy.html
-- Terms of Service: https://bmgis.github.io/SurveyDXF/terms.html
-- Refund Policy: https://bmgis.github.io/SurveyDXF/refund.html
 
 ## Support
 
